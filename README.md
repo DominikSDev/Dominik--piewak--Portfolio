@@ -15,10 +15,10 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 
 * [Git](https://git-scm.com/) 
 * [VisualStudioCode](https://code.visualstudio.com/) - IDE for developers, best choice for javascript
-*[BrowserStack](https://www.browserstack.com/) - Responsive Web device Testing on many devices`s viewport and resolutions
-*[Jmeter](https://jmeter.apache.org/) = in progress
-*[OWASP](https://www.zaproxy.org/) - in progress 
-*[Jenkins](https://www.jenkins.io/) - in progress
+* [BrowserStack](https://www.browserstack.com/) - Responsive Web device Testing on many devices`s viewport and resolutions
+* [Jmeter](https://jmeter.apache.org/) = in progress
+* [OWASP](https://www.zaproxy.org/) - in progress 
+* [Jenkins](https://www.jenkins.io/) - in progress
 
 # Technical skills
 * DevTools
