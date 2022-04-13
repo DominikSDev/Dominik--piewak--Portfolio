@@ -1,4 +1,5 @@
 # My Software Tester Portfolio 
+## While creating this document, I also was looking for bugs that I reported in the issues card 
 # About me
 Hi I am Dominik. Let me introduce you in the road of my software tester profession. This is my portfolio and a wide spectrum of source which i get knowladge nad practise.
 
@@ -6,14 +7,14 @@ At the beginig i have spend much time to find anwers for my many questions. One 
 After all, in full feeling confident i can said **Yes!**
 Join me in this fascinaited world of testing. It will make me happy, if you find something here for you.
 # Tools
-*[ShareX](https://getsharex.com/) - Recording screen
-*[PicPick](https://picpick.app/pl/) - Screen capture 
-*[Jira](https://www.atlassian.com/pl/software/jira) - Issue tracking and project management tool for developers
-*[Postman](https://www.postman.com/) - API testing tool 
-*[TestLink](https://testlink.org/) - Create test cases and managment tool
+* [ShareX](https://getsharex.com/) - Recording screen
+* [PicPick](https://picpick.app/pl/) - Screen capture 
+* [Jira](https://www.atlassian.com/pl/software/jira) - Issue tracking and project management tool for developers
+* [Postman](https://www.postman.com/) - API testing tool 
+* [TestLink](https://testlink.org/) - Create test cases and managment tool
 
-*[Git](https://git-scm.com/) 
-*[VisualStudioCode](https://code.visualstudio.com/) - IDE for developers, best choice for javascript
+* [Git](https://git-scm.com/) 
+* [VisualStudioCode](https://code.visualstudio.com/) - IDE for developers, best choice for javascript
 *[BrowserStack](https://www.browserstack.com/) - Responsive Web device Testing on many devices`s viewport and resolutions
 *[Jmeter](https://jmeter.apache.org/) = in progress
 *[OWASP](https://www.zaproxy.org/) - in progress 
@@ -53,7 +54,7 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 * [Czy IT jest dla mnie](https://www.facebook.com/groups/czyitjestdlamnie)
 
 # Live Workshops and practise
-I regularly take part in many live coding workshops in [ifs&whiles](https://www.czyitjestdlamnie.pl). As a regular participant i was nominated to the *veteran workshop* name by teachers:)
+I regularly take part in many live coding workshops in [ifs&whiles](https://www.czyitjestdlamnie.pl). As a regular participant i was nominated to the **veteran workshop** name by teachers:)
 
 # Recommended blogs
 * testuj.pl - Test, Bugs & Rock'n'Roll
@@ -66,15 +67,15 @@ I regularly take part in many live coding workshops in [ifs&whiles](https://www.
 * uTest.com
 * we-are-testers.com
 * testbirds.com
-
 # My test case examples
 
-# My bug reports
+# My bug reports example
 
 # Unwersial tips and tricks for better learing
 # Next steps
 
-* Passed ISTQB certificate
+* Pass ISTQB certificate
 * Automation Tests
 * Work in a company, where I will learn more and more...
+# My projects
 
