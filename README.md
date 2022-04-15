@@ -1,5 +1,5 @@
 # My Software Tester Portfolio 
-## While creating this document, I also was looking for bugs that I reported in the issues card 
+### While creating this document, I also was looking for bugs that I reported in the issues card 
 # About me
 Hi I am Dominik. Let me introduce you in the road of my software tester profession. This is my portfolio and a wide spectrum of source which i get knowladge nad practise.
 
@@ -12,7 +12,6 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 * [Jira](https://www.atlassian.com/pl/software/jira) - Issue tracking and project management tool for developers
 * [Postman](https://www.postman.com/) - API testing tool 
 * [TestLink](https://testlink.org/) - Create test cases and managment tool
-
 * [Git](https://git-scm.com/) 
 * [VisualStudioCode](https://code.visualstudio.com/) - IDE for developers, best choice for javascript
 * [BrowserStack](https://www.browserstack.com/) - Responsive Web device Testing on many devices`s viewport and resolutions
@@ -54,7 +53,7 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 * [Czy IT jest dla mnie](https://www.facebook.com/groups/czyitjestdlamnie)
 
 # Live Workshops and practise
-I regularly take part in many live coding workshops in [ifs&whiles](https://www.czyitjestdlamnie.pl). As a regular participant i was nominated to the **veteran workshop** name by teachers:)
+I regularly take part in many live coding workshops in [ifs&whiles](https://www.czyitjestdlamnie.pl). As a regular acitve participant i was nominated to the **veteran workshop** name by teachers:)
 
 # Recommended blogs
 * testuj.pl - Test, Bugs & Rock'n'Roll
@@ -70,8 +69,9 @@ I regularly take part in many live coding workshops in [ifs&whiles](https://www.
 # My test case examples
 
 # My bug reports example
+* [Bugs reported from MrBuggy7 application](https://drive.google.com/file/d/1rFeUhEpJZX3sIEmynVe5PqWrSBm3Iql4/view?usp=sharing)
 
-# Unwersial tips and tricks for better learing
+# Universal tips and tricks for better learing
 # Next steps
 
 * Pass ISTQB certificate
