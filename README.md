@@ -34,6 +34,10 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 * JSON Viewer - clear JavaScript Object Notation reader on websites
 * WhatFont - identify font family
 * Nimbus Screenshot & Screen Video Recorder - capture and recording screen
+
+# Mobile testing - applications for Android OS
+* AZ Screen Recorder - Recording screen
+* iMarkup - Picture editing tool
 # Courses/Certificates 
 * [Praktyczny kurs testowania oprogramowania (9h)](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 * [Web developer od podstaw w 15 dni (38h)](https://websamuraj.pl/kurs/web-developer-w-15-dni-kurs-online/)
@@ -66,16 +70,15 @@ I regularly take part in many live coding workshops in [ifs&whiles](https://www.
 * uTest.com
 * we-are-testers.com
 * testbirds.com
-# My test case examples
-
-# My bug reports example
-* [Bugs reported from MrBuggy7 application](https://drive.google.com/file/d/1rFeUhEpJZX3sIEmynVe5PqWrSBm3Iql4/view?usp=sharing)
 
 # Universal tips and tricks for better learing
 # Next steps
-
 * Pass ISTQB certificate
 * Automation Tests
 * Work in a company, where I will learn more and more...
+# My test case examples
+
+# My bug reports examples
+* [Bugs reported from MrBuggy7 application](https://drive.google.com/file/d/1rFeUhEpJZX3sIEmynVe5PqWrSBm3Iql4/view?usp=sharing)
 # My projects
 
