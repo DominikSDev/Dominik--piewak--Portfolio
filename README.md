@@ -6,9 +6,11 @@ Hi I am Dominik. Let me introduce you in the road of my software tester professi
 At the beginig i have spend much time to find anwers for my many questions. One of them was that: Software Tester is it a right way for you?
 After all, in full feeling confident i can said **Yes!**
 Join me in this fascinaited world of testing. It will make me happy, if you find something here for you.
-# Tools
+# Tools 
+* [SDK Platform Tool](https://developer.android.com/studio/releases/platform-tools) - Creating logs from a mobile device Android OS
 * [ShareX](https://getsharex.com/) - Recording screen
-* [PicPick](https://picpick.app/pl/) - Screen capture 
+* [PicPick](https://picpick.app/pl/) - Screen capture
+* [LibreOffice](https://www.libreoffice.org/) - Editing pdf file 
 * [Jira](https://www.atlassian.com/pl/software/jira) - Issue tracking and project management tool for developers
 * [Postman](https://www.postman.com/) - API testing tool 
 * [TestLink](https://testlink.org/) - Create test cases and managment tool
@@ -18,6 +20,7 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 * [Jmeter](https://jmeter.apache.org/) = in progress
 * [OWASP](https://www.zaproxy.org/) - in progress 
 * [Jenkins](https://www.jenkins.io/) - in progress
+
 
 # Technical skills
 * DevTools
