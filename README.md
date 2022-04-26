@@ -48,7 +48,7 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 * [Wprowadzenie do Git i GitHub (5h - free)](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 * Linkedin.com
 # Books
-* ABC Testowania Oprogramowania - Waldemar Szafraniec, Dorota Gabor - curently in progress
+* ABC Testowania Oprogramowania - Waldemar Szafraniec, Dorota Gabor - currently in progress
 * Testowanie i jakość oprogramowania - Adam Roman - soon
 * Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp - soon
 * Certyfikowany tester. Sylabus poziomu podstawowego ISTQB - SJSI - soon
@@ -70,16 +70,16 @@ I regularly take part in many live coding workshops in [ifs&whiles](https://www.
 * testowanie-oprogramowania.pl
 # Webinars
 * [Czyitjestdlamnie](https://www.czyitjestdlamnie.pl)
-# Commercial experiance
-* uTest.com - Completing uTestAcademy, currently taking part in Academy`s test cykles and paid cykles
-* we-are-testers.com - soon
-* testbirds.com - soon
 
 # Universal tips and tricks for better learing
 # Next steps
 * Pass ISTQB certificate
 * Automation Tests
 * Work in a company, where I will learn more and more...
+# Commercial experiance
+* uTest.com - Completing uTestAcademy, currently taking part in Academy`s test cykles and paid cykles
+* we-are-testers.com - soon
+* testbirds.com - soon
 # My test case examples
 
 # My bug reports examples
