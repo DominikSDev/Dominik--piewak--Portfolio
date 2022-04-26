@@ -83,8 +83,7 @@ I regularly take part in many live coding workshops in [ifs&whiles](https://www.
 # My test case examples
 
 # My bug reports examples
-* [uTest - Test cyckle bug report](https://drive.google.com/file/d/1kS0pQFuuWKdGTFU8tKUSSIEjd1aWKJW3/view?usp=sharing)
-  [Attachment](https://drive.google.com/file/d/1ayhikHGCDrG1-Vw10bh87p_rkAQVWnbM/view?usp=sharing)
+* [uTest - Approved Test cyckle`s bug report with attachment](https://drive.google.com/file/d/1_Q4Feb2BMUVVSi2VnIch2IQ_FtGxNUwv/view?usp=sharing)
 * [Bugs reported from MrBuggy7 application](https://drive.google.com/file/d/1rFeUhEpJZX3sIEmynVe5PqWrSBm3Iql4/view?usp=sharing)
 
 # My projects
