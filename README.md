@@ -17,9 +17,9 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 * [Git](https://git-scm.com/) 
 * [VisualStudioCode](https://code.visualstudio.com/) - IDE for developers, best choice for javascript
 * [BrowserStack](https://www.browserstack.com/) - Responsive Web device Testing on many devices`s viewport and resolutions
-* [Jmeter](https://jmeter.apache.org/) = in progress
-* [OWASP](https://www.zaproxy.org/) - in progress 
-* [Jenkins](https://www.jenkins.io/) - in progress
+* [Jmeter](https://jmeter.apache.org/) - soon
+* [OWASP](https://www.zaproxy.org/) - soon
+* [Jenkins](https://www.jenkins.io/) - soon
 
 
 # Technical skills
@@ -48,10 +48,11 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 * [Wprowadzenie do Git i GitHub (5h - free)](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 * Linkedin.com
 # Books
-* Testowanie i jakość oprogramowania - Adam Roman
-* Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
-* Certyfikowany tester. Sylabus poziomu podstawowego ISTQB - SJSI
-* Zawód tester. Od decyzji do zdobycia doświadczenia - Radosław Smilgin
+* ABC Testowania Oprogramowania - Waldemar Szafraniec, Dorota Gabor - curently in progress
+* Testowanie i jakość oprogramowania - Adam Roman - soon
+* Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp - soon
+* Certyfikowany tester. Sylabus poziomu podstawowego ISTQB - SJSI - soon
+* Zawód tester. Od decyzji do zdobycia doświadczenia - Radosław Smilgin - soon
 
 # Facebook`s groups
 * [Testowanie oprogramowania (42,7k members)](https://www.facebook.com/groups/TestowanieOprogramowania)
@@ -70,9 +71,9 @@ I regularly take part in many live coding workshops in [ifs&whiles](https://www.
 # Webinars
 * [Czyitjestdlamnie](https://www.czyitjestdlamnie.pl)
 # Commercial experiance
-* uTest.com
-* we-are-testers.com
-* testbirds.com
+* uTest.com - Completing uTestAcademy, currently taking part in Academy`s test cykles and paid cykles
+* we-are-testers.com - soon
+* testbirds.com - soon
 
 # Universal tips and tricks for better learing
 # Next steps
@@ -82,6 +83,11 @@ I regularly take part in many live coding workshops in [ifs&whiles](https://www.
 # My test case examples
 
 # My bug reports examples
+* [uTest - Test cyckle bug report](https://drive.google.com/file/d/1kS0pQFuuWKdGTFU8tKUSSIEjd1aWKJW3/view?usp=sharing)
+  [Attachment](https://drive.google.com/file/d/1ayhikHGCDrG1-Vw10bh87p_rkAQVWnbM/view?usp=sharing)
 * [Bugs reported from MrBuggy7 application](https://drive.google.com/file/d/1rFeUhEpJZX3sIEmynVe5PqWrSBm3Iql4/view?usp=sharing)
+
 # My projects
+* [Testing SQL Data Base](link-soon) Summary: I used a real SQL database from w3schools.com. Using Testlink I have created a test documentation containing, a test scenario with test cases. I executed functional tests throguh sql syntax queries and generated a test report.
+
 
