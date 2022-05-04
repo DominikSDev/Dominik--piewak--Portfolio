@@ -62,14 +62,14 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 # Live Workshops and practise
 I regularly take part in many live coding/testing workshops in [ifs&whiles](https://www.czyitjestdlamnie.pl). As a regular acitve participant i was nominated to the **veteran workshop** name by teachers:)
 My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) workshops`s summary:
-* SQL basics part 1 - 15.03.2022
+* SQL basics part 1 - 15.03.2022 (1,5h)
 * API HTTP with Postman tool - 22.03.2022 (1,5h)
 * JavaScript basics part 1 - 24.03.2022 (1,5h)
 * JavaScript basics part 2 - 31.03.2022 (1,5h)
 * Python basics part 1 - 05.04.2022 (1,5h)
 * Git/Githb - 07.04.2022 (1,5h)
 * Manual testing aplication(Reading documentation, executing test cases and bugs reporting in Trello) - 26.04.2022 (2,5h)
-* SQL basics part 2 - 17.05.2022 (1,5h) - Soon
+* SQL basics part 2 - 17.05.2022 (2,5h) - Soon
 # Recommended blogs
 * testuj.pl - Test, Bugs & Rock'n'Roll
 * testerzy.pl
@@ -84,13 +84,13 @@ My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) worksho
 * Pass ISTQB certificate
 * Automation Tests
 # Commercial experiance
-* uTest.com - Completing uTestAcademy, currently taking part in Academy`s test cykles and paid cykles
+* uTest.com - Completing uTestAcademy, currently taking part in Academy`s test cycles and paid cycles [uTest profile statistics](https://drive.google.com/file/d/1Rfj20otnuQNfksIw0-9P-Q_pwOhbIJ-l/view?usp=sharing)
 * we-are-testers.com - Soon
 * testbirds.com - Soon
 # My test case examples
 
 # My bug reports examples
-* [uTest - Approved Test cyckle`s bug report with attachment](https://drive.google.com/file/d/1_Q4Feb2BMUVVSi2VnIch2IQ_FtGxNUwv/view?usp=sharing)
+* [uTest - Approved Test cycle`s bug report with attachment](https://drive.google.com/file/d/1_Q4Feb2BMUVVSi2VnIch2IQ_FtGxNUwv/view?usp=sharing)
 * [Bugs reported from MrBuggy7 application](https://drive.google.com/file/d/1rFeUhEpJZX3sIEmynVe5PqWrSBm3Iql4/view?usp=sharing)
 
 # My projects
