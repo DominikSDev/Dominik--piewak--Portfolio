@@ -96,6 +96,8 @@ My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) worksho
 * [Bulid 2 - Prioryty: High](https://drive.google.com/file/d/1brpQMQ2hgVFQ0823810QKBfGsWhxYf__/view?usp=sharing)
 * [Bulid 2 - Prioryty: Medium](https://drive.google.com/file/d/1ve3vWUouiuLb5fBdF3TsP2eDupew0mX9/view?usp=sharing)
 # My projects
-* [Testing SQL Data Base](link-soon) Summary: I used a real SQL database from w3schools.com. Using Testlink I have created a test documentation containing a test scenario with test cases. I executed functional tests throguh sql syntax queries and generated a test report.
+* Testing SQL Data Base 
+Summary: I used a real SQL database from w3schools.com. Using Testlink I have created a test documentation containing a test scenario with test cases. I executed functional tests throguh sql syntax queries and generated a test report.
+ * [Test Cases](https://drive.google.com/file/d/1PNSQ-sa1m2JQBFAsXG_Q2vR1tNIG1p5i/view?usp=sharing)
 
 
