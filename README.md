@@ -98,6 +98,7 @@ My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) worksho
 # My projects
 Testing SQL Data Base 
 Summary: I used a real SQL database from w3schools.com. Using Testlink I have created a test documentation containing a test scenario with test cases. I executed functional tests throguh sql syntax queries and generated a test report.
- * [Test Cases](https://drive.google.com/file/d/1PNSQ-sa1m2JQBFAsXG_Q2vR1tNIG1p5i/view?usp=sharing)
+ * [Test documentation with executed test cases and report](https://drive.google.com/file/d/1PfYeUGkxumz-nt-_SJLMbHawvPeLP8Mh/view?usp=sharing)
+ * [Excel test documentation](https://drive.google.com/file/d/1imWMc8h8U4u8quko6fVRlBwwyMsOWc_8/view?usp=sharing)
 
 
