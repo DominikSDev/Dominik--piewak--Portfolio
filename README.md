@@ -84,7 +84,7 @@ My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) worksho
 * Pass ISTQB certificate
 * Automation Tests
 # Commercial experiance
-* uTest.com - Completing uTestAcademy, currently taking part in Academy`s test cycles and paid cycles [uTest profile statistics](https://drive.google.com/file/d/1ENaLTnVFVpDxeOcGoKFpASV5kN7OIAD9/view?usp=sharing)
+* uTest.com - Completing uTestAcademy, currently taking part in Academy`s test cycles and paid cycles [uTest profile statistics](https://drive.google.com/file/d/1rLqIJhizaUsjz2EO4DcIwaZryOEnuey2/view?usp=sharing)
 * we-are-testers.com - Soon
 * testbirds.com - Soon
 # My test case examples
