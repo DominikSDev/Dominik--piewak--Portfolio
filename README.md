@@ -83,7 +83,7 @@ My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) worksho
 * Work in a company, where I will learn more and more...
 * Pass ISTQB certificate
 * Automation Tests
-# Commercial experiance
+# Commercial experience
 * uTest.com - Completing uTestAcademy, currently taking part in Academy`s test cycles and paid cycles [uTest profile statistics](https://drive.google.com/file/d/1rLqIJhizaUsjz2EO4DcIwaZryOEnuey2/view?usp=sharing)
 * we-are-testers.com - Soon
 * testbirds.com - Soon
@@ -96,7 +96,7 @@ My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) worksho
 * [Bulid 2 - Prioryty: High](https://drive.google.com/file/d/1brpQMQ2hgVFQ0823810QKBfGsWhxYf__/view?usp=sharing)
 * [Bulid 2 - Prioryty: Medium](https://drive.google.com/file/d/1ve3vWUouiuLb5fBdF3TsP2eDupew0mX9/view?usp=sharing)
 # My projects
-Testing SQL Data Base 
+##### Testing SQL Data Base 
 Summary: I used a real SQL database from w3schools.com. Using Testlink I have created a test documentation containing a test scenario with test cases. I executed functional tests throguh sql syntax queries and generated a test report.
  * [Test documentation with executed test cases and report](https://drive.google.com/file/d/1PfYeUGkxumz-nt-_SJLMbHawvPeLP8Mh/view?usp=sharing)
  * [Excel test documentation](https://drive.google.com/file/d/1imWMc8h8U4u8quko6fVRlBwwyMsOWc_8/view?usp=sharing)
