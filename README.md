@@ -76,7 +76,9 @@ My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) worksho
 * remigiuszbednarczyk.pl
 * testowanie-oprogramowania.pl
 # Webinars
-* [Czyitjestdlamnie](https://www.czyitjestdlamnie.pl)
+* Jak znaleźć pierwszą pracę w IT? - [Czyitjestdlamnie](https://www.czyitjestdlamnie.pl) - 20.04.2022
+* Jak napisać swój pierwszy test automatyczny? Pełny proces. – [Fabryka testów](https://fabrykatestow.pl) - 10.05.2022 
+* Czy warto robić certyfikat ISTQB jako tester oprogramowania? - [Czyitjestdlamnie](https://www.czyitjestdlamnie.pl) - 12.05.2022
 
 # Universal tips and tricks for better learing
 # Next steps
