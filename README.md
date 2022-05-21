@@ -93,10 +93,11 @@ My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) worksho
 
 # My bug reports examples
 * [Bugs reported from MrBuggy7 application](https://drive.google.com/file/d/1rFeUhEpJZX3sIEmynVe5PqWrSBm3Iql4/view?usp=sharing)
-# uTest - Test cycle`s bug report approved by Test Team Leader
+# uTest - Test cycle`s bug reports approved by Test Team Leader
 * [Bulid 1 - Prioryty: Medium](https://drive.google.com/file/d/1_Q4Feb2BMUVVSi2VnIch2IQ_FtGxNUwv/view?usp=sharing)
 * [Bulid 2 - Prioryty: High](https://drive.google.com/file/d/1brpQMQ2hgVFQ0823810QKBfGsWhxYf__/view?usp=sharing)
 * [Bulid 2 - Prioryty: Medium](https://drive.google.com/file/d/1ve3vWUouiuLb5fBdF3TsP2eDupew0mX9/view?usp=sharing)
+* [Bulid 3 - Prioryty: Low](https://drive.google.com/file/d/1etn4oeHoj4apNz5Vlo5UtB7IF4m7ocLg/view?usp=sharing)
 # My projects
 ##### Testing SQL Data Base 
 Summary: I used a real SQL database from w3schools.com. Using Testlink I have created a test documentation containing a test scenario with test cases. I executed functional tests throguh sql syntax queries and generated a test report.
