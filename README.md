@@ -1,4 +1,5 @@
 # My Software Tester Portfolio 
+
 #### While creating this document, I also was looking for bugs that I reported in the issues card 
 # About me
 Hi I am Dominik. Let me introduce you in the road of my software tester profession. This is my portfolio and a wide spectrum of source which I get knowledge and practise.
@@ -85,6 +86,10 @@ My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) worksho
 * Work in a company, where I will learn more and more...
 * Pass ISTQB certificate
 * Automation Tests
+# My soft skills presentation - Creating blog
+ I am preparing a new articles for czyitjestdlamnie.pl`s blog You may be interested in the following topics:
+* [6 plusów pracy jako tester oprogramowania](https://drive.google.com/file/d/1ww9p00cyC9zMqlynmZEz_tvMqMd2tg56/view?usp=sharing)
+* [V.04 Dlaczego warto zostać programistą. Poznaj 6 plusów tej pracy](https://drive.google.com/file/d/1apUzH420CtigKiqub1tsiNH_4JpHuuUf/view?usp=sharing)
 # Commercial experience
 * uTest.com - Completing uTestAcademy, currently taking part in Academy`s test cycles and paid cycles [uTest profile statistics](https://drive.google.com/file/d/1rLqIJhizaUsjz2EO4DcIwaZryOEnuey2/view?usp=sharing)
 * we-are-testers.com - Soon
