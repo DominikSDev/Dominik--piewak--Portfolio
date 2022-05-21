@@ -60,7 +60,7 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 * [ISTQB - egzaminy, pytania, testy (9,9k members)](https://www.facebook.com/groups/194288250951242)
 * [Czy IT jest dla mnie (<1k members)](https://www.facebook.com/groups/czyitjestdlamnie)
 
-# Live Workshops and practise
+# Live workshops and practise
 I regularly take part in many live coding/testing workshops in [ifs&whiles](https://www.czyitjestdlamnie.pl). As a regular acitve participant i was nominated to the **veteran workshop** name by teachers:)
 My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) workshops`s summary:
 * SQL basics part 1 - 15.03.2022 (1,5h)
@@ -86,10 +86,10 @@ My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) worksho
 * Work in a company, where I will learn more and more...
 * Pass ISTQB certificate
 * Automation Tests
-# My soft skills presentation - Creating blog
+# My soft skills presentation - creating blog
  I am preparing a new articles for czyitjestdlamnie.pl`s blog You may be interested in the following topics:
 * [6 plusów pracy jako tester oprogramowania](https://drive.google.com/file/d/1ww9p00cyC9zMqlynmZEz_tvMqMd2tg56/view?usp=sharing)
-* [V.04 Dlaczego warto zostać programistą. Poznaj 6 plusów tej pracy](https://drive.google.com/file/d/1apUzH420CtigKiqub1tsiNH_4JpHuuUf/view?usp=sharing)
+* [Dlaczego warto zostać programistą. Poznaj 6 plusów tej pracy](https://drive.google.com/file/d/1apUzH420CtigKiqub1tsiNH_4JpHuuUf/view?usp=sharing)
 # Commercial experience
 * uTest.com - Completing uTestAcademy, currently taking part in Academy`s test cycles and paid cycles [uTest profile statistics](https://drive.google.com/file/d/1rLqIJhizaUsjz2EO4DcIwaZryOEnuey2/view?usp=sharing)
 * we-are-testers.com - Soon
