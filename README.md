@@ -23,6 +23,7 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 * [Jenkins](https://www.jenkins.io/) - Soon
 
 # Technical skills
+* Cypress
 * DevTools
 * SQL
 * Creating test cases
@@ -38,10 +39,13 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 * WhatFont - Identify font family
 * Nimbus Screenshot & Screen Video Recorder - Screen capture and recording 
 
+# Useful cypress`s plugins 
+
 # Mobile testing - applications for Android OS
 * AZ Screen Recorder - Screen recording 
 * iMarkup - Picture editing tool
 # Courses/Certificates 
+* [Cypress od podstaw - Automatyzacja testów](https://www.udemy.com/course/cypress-od-podstaw/)
 * [Praktyczny kurs testowania oprogramowania (9h)](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 * [Web developer od podstaw w 15 dni (38h)](https://websamuraj.pl/kurs/web-developer-w-15-dni-kurs-online/)
 * [Front-end zaawansowany w 15 dni (38,5h)](https://websamuraj.pl/kurs/front-end-zaawansowany-w-15-dni-kurs-online/)
@@ -61,7 +65,7 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 * [Czy IT jest dla mnie (<1k members)](https://www.facebook.com/groups/czyitjestdlamnie)
 
 # Live workshops and practise
-I regularly take part in many live coding/testing workshops in [ifs&whiles](https://www.czyitjestdlamnie.pl). As a regular acitve participant i was nominated to the **veteran workshop** name by teachers:)
+I regularly take part in many live coding/testing workshops in [ifs&whiles](https://www.czyitjestdlamnie.pl). As a regular acitve participant I was nominated to the **veteran workshop** name by teachers:)
 My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) workshops`s summary:
 * SQL basics part 1 - 15.03.2022 (1,5h)
 * API HTTP with Postman tool - 22.03.2022 (1,5h)
@@ -87,11 +91,11 @@ My last [czyitjestdlamnie.pl](https://www.czyitjestdlamnie.pl/warsztaty) worksho
 * Pass ISTQB certificate
 * Automation Tests
 # My soft skills presentation - creating blog
- I am preparing a new articles for czyitjestdlamnie.pl`s blog You may be interested in the following topics:
+ I am preparing a new articles for [Czyitjestdlamnie](https://www.czyitjestdlamnie.pl)`s blog. You may be interested in the following topics:
 * [6 plusów pracy jako tester oprogramowania](https://drive.google.com/file/d/1ww9p00cyC9zMqlynmZEz_tvMqMd2tg56/view?usp=sharing)
 * [Dlaczego warto zostać programistą. Poznaj 6 plusów tej pracy](https://drive.google.com/file/d/1apUzH420CtigKiqub1tsiNH_4JpHuuUf/view?usp=sharing)
 # Commercial experience
-* uTest.com - Completing uTestAcademy, currently taking part in Academy`s test cycles and paid cycles [uTest profile statistics](https://drive.google.com/file/d/1rLqIJhizaUsjz2EO4DcIwaZryOEnuey2/view?usp=sharing)
+* uTest.com - Completing uTestAcademy, currently taking part in Academy`s test cycles, paid cycles, writing tests review [uTest profile statistics](https://drive.google.com/file/d/1rLqIJhizaUsjz2EO4DcIwaZryOEnuey2/view?usp=sharing)
 * we-are-testers.com - Soon
 * testbirds.com - Soon
 # My test case examples
@@ -109,4 +113,6 @@ Summary: I used a real SQL database from w3schools.com. Using Testlink I have cr
  * [Test documentation with executed test cases and report](https://drive.google.com/file/d/1PfYeUGkxumz-nt-_SJLMbHawvPeLP8Mh/view?usp=sharing)
  * [Excel test documentation](https://drive.google.com/file/d/1imWMc8h8U4u8quko6fVRlBwwyMsOWc_8/view?usp=sharing)
 
-
+##### Automatic test End-to-End based on design pattern Page Object Model in Cypress 
+Summary: 
+* [#](soon)
