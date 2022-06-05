@@ -45,7 +45,7 @@ Join me in this fascinaited world of testing. It will make me happy, if you find
 * AZ Screen Recorder - Screen recording 
 * iMarkup - Picture editing tool
 # Courses/Certificates 
-* [Cypress od podstaw - Automatyzacja testów](https://www.udemy.com/course/cypress-od-podstaw/)
+* [Cypress od podstaw - Automatyzacja testów (9h)](https://www.udemy.com/course/cypress-od-podstaw/)
 * [Praktyczny kurs testowania oprogramowania (9h)](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 * [Web developer od podstaw w 15 dni (38h)](https://websamuraj.pl/kurs/web-developer-w-15-dni-kurs-online/)
 * [Front-end zaawansowany w 15 dni (38,5h)](https://websamuraj.pl/kurs/front-end-zaawansowany-w-15-dni-kurs-online/)
@@ -113,6 +113,9 @@ Summary: I used a real SQL database from w3schools.com. Using Testlink I have cr
  * [Test documentation with executed test cases and report](https://drive.google.com/file/d/1PfYeUGkxumz-nt-_SJLMbHawvPeLP8Mh/view?usp=sharing)
  * [Excel test documentation](https://drive.google.com/file/d/1imWMc8h8U4u8quko6fVRlBwwyMsOWc_8/view?usp=sharing)
 
-##### Automatic test End-to-End based on design pattern Page Object Model in Cypress 
-Summary: 
-* [#](soon)
+##### Automatic test in Cypress on design pattern Page Object Model  
+Summary: I prepared a dynamic environment in Cypress to
+execute unit and API tests in many browsers, on the
+automationpractice.com. 
+* [github/DominikSDev/Cypress-Tests-POM](https://github.com/DominikSDev/Cypress-Tests-POM)
+Project is still in progress. 
